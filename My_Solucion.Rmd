@@ -1,0 +1,34 @@
+---
+title: 'Peer-graded Assignment: Prediction Assignment Writeup'
+author: "Santiago Humberto Londoño Restrepo"
+date: "5 de junio de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#Introduction
+
+#Load and preprocess data
+
+
+#Algorithm selection
+
+```{r}
+bd <- "codigo que reproduzca el grafico plot1"
+
+```
+
+![DispersionPlot1](plots/plot1.jpg)
+
+#Model fit
+
+#Error test (Quiz prediction)
+
+
+
+
+
