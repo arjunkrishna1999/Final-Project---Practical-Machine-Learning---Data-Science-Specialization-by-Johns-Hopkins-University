@@ -2,7 +2,7 @@
 title: 'My solution to Peer-graded Assignment: Prediction Assignment Writeup'
 author: "Santiago Humberto Londoño Restrepo"
 date: "5 de junio de 2017"
-output: html_document
+output: md_document
 configuration: UTF-8
 ---
 
